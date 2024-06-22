@@ -1,0 +1,43 @@
+body{
+    background-color: whitesmoke;
+    color: black;
+    padding: 20px;
+}
+
+.container{
+    width: 800px;
+    margin: auto;
+    background-color: white;
+    padding: 20px;
+}
+
+header{
+    text-align: center;
+    padding-bottom:10px;
+    margin-bottom: 20px;
+}
+h1{
+    color: green;
+}
+p {
+    margin: 5px;    
+}
+a {
+    color:black;
+}
+section h2 {
+    color: green;
+    border-bottom: 2px solid whitesmoke;
+    padding-bottom: 5px;
+}
+ul {
+    padding: auto;
+}
+ul li {
+    padding: 5px;
+    margin: 5px;
+    background-color: white;
+}
+ul li {
+    background-color: white;
+}
